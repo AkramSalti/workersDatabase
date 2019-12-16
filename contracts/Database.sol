@@ -7,7 +7,7 @@ contract Database {
 		string name;
 		string phoneNumber;
 		string position;
-	}
+	}  
 	
 	constructor() public {
 		addWorker("Ádám","+36301111111","Senior");

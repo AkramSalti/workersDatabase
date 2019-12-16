@@ -12,7 +12,7 @@ if (typeof Web3 == "object" && Object.keys(Web3).length == 0) {
 
 var contract = (function(module) {
 
-  // Planned for future features, logging, etc.
+  // Planned for future features, logging, etc. 
   function Provider(provider) {
     this.provider = provider;
   }
